@@ -1,0 +1,266 @@
+.top{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.ofertas{
+    color: white;
+    margin-left: 100px;
+}
+
+
+.lis{
+    color: white;
+    display: flex;
+    list-style-type: none;
+    column-gap: 20px;
+    margin-right: 100px;
+}
+
+.inicio{
+
+    background-color: #F0A83E;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 90px;
+}
+
+.intro{
+    list-style-type: none;
+    display: flex;
+    column-gap: 50px;
+    margin-right: 100px
+
+}
+
+.paw{
+    margin-left: 100px;
+}
+
+.paw1{
+    display: flex;
+    column-gap: 50px;
+    list-style-type: none;
+    margin-right: 100px;
+
+}
+
+.paw1{
+    color: white;
+}
+
+.huesito{
+    width: 100%;
+}
+
+.aqui{
+    background-color: white;
+    color: black;
+    width: 378px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding-left: 28px;
+    margin-bottom: 0px;
+}
+
+.comedero{
+    background-color: #F0A83E;
+    width: 133px;
+    height: 39px;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    color: white;
+}
+
+.contenedor{
+position: relative;
+
+}
+
+.inicio2{
+    top: 222px;
+    position: absolute;
+    right: 335px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.descuento{
+font-size: 23px;
+margin-bottom: 0px;
+
+}
+
+.lista{
+    list-style-type: none;
+    display: flex;
+    column-gap: 23px;
+    padding-inline-start: 0px;
+    
+}
+.destacados{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 20px;
+
+}
+
+.tarjetas{
+    display: flex;
+    justify-content: center;
+    column-gap: 35px;
+}
+
+.precios{
+background-color: #FBFAF6;
+text-align: center;
+
+}
+.producto{
+    display: flex;
+    flex-direction: column;
+
+}
+.dolar{
+    color: #F0A83E;
+    font-size: 20px;
+
+}
+.juguete{
+    font-size: 20px;
+}
+
+.final{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+.input-data{
+    background-color: #3C2313;
+    border-radius: 15px;
+    width: 340px;
+    height: 40px;
+    color: white;
+    padding-left: 15px;
+}
+
+
+.datos{
+    flex-direction: column;
+    display: flex;
+    row-gap: 15px;
+
+}
+
+.resetear{
+    width: 110px;
+    height: 34px;
+    background-color: #8A8787;
+    border-radius: 15px;
+    color: white;
+    border: none;
+}
+
+.enviar{
+    width: 110px;
+    height: 34px;
+    background-color: #F0A83E;
+    border-radius: 15px;
+    color: white;
+    border: none;
+}
+
+.botones{
+    margin-top: 30px;
+}
+
+.group{
+    background-color: #F0A83E;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    align-items: center;
+    margin-top: 50px;
+}
+.end{
+    display: flex;
+    column-gap: 28px;
+    margin-right: 110px;
+    align-items: center;
+}
+.end1{
+    margin-left: 50px;
+    display: flex;
+    column-gap: 20px;
+    font-size: 30px;
+    align-items: center;
+}
+
+.correo{
+    background: #FFFFFF;
+    border-radius: 15px;
+    width: 271px;
+    height: 40px;
+    padding-left: 15px;
+}
+
+.suscribir{
+    background: #3C2313;
+    border-radius: 15px;
+    width: 70px;
+    height: 34px;
+    font-size: 9px;
+    color: #FFFFFF;
+}
+
+.información {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3C2313;
+}
+
+.carta {
+    display: flex;
+    align-items: center;
+}
+
+.texto {
+    color: white;
+    margin-left: 15px;
+}
+
+.titulo{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.ubicaciones{
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+footer{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    color: white;
+    height: 30px;
+    align-items: center;
+}
